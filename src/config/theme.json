@@ -3,7 +3,7 @@
     "default": {
       "theme_color": {
         "primary": "#4f46e5",
-        "header": "#1e293b",
+        "header": "#172554",
         "body": "#fff",
         "border": "#eaeaea",
         "theme_light": "#f6f6f6",
@@ -12,7 +12,7 @@
       "text_color": {
         "default": "#0f172a",
         "dark": "#0f172a",
-        "light": "#dbeafe"
+        "light": "#0f172a"
       }
     },
     "darkmode": {
@@ -26,7 +26,7 @@
       },
       "text_color": {
         "default": "#0f172a",
-        "dark": "#dbeafe",
+        "dark": "#0f172a",
         "light": "#0f172a"
       }
     }
