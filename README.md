@@ -1,6 +1,6 @@
 <h1 align=center>Nextjs + Tailwind CSS + TypeScript Starter and Boilerplate</h1>
 
-<p align=center>Nextplate is a free starter template built with Nextjs, TailwindCSS & TypeScript, providing everything you need to jumpstart your Next project and save valuable time.</p>
+<p align=center>VedicVerse is a free starter template built with Nextjs, TailwindCSS & TypeScript, providing everything you need to jumpstart your Next project and save valuable time.</p>
 
 <p align=center>Made with ♥ by<a href="https://zeon.studio/">Zeon Studio</a></p>
 
